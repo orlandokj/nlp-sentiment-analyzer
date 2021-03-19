@@ -1,0 +1,1 @@
+# Repositório com uma comparação entre o SIA da biblioteca NLTK e um algoritmo de regressão logística
